@@ -90,5 +90,23 @@ Blockers
 
 ## Roles
 In scrums there are three main roles:
+The development team: The core laborers of the project, tasked with actually completing the work. The development team isn't always composed of programmers. Responsibilities for the development team include:
+Delivering work through the sprint
+Making sure their work is transparent at the daily standups as these meetings are a place where their work can be reviewed as well as seeking help from other developers.
+
+Product owners : It is the responsibility of the product owners to ensure that the development team is producing sufficient work so as to meet sprints. The product owner should have a clear idea of the customer as well as the vision of the scrum team’s end goal. Product owners will also factor in the needs of the stakeholder into the workflow. Agile/Scrum teams are designed to be dynamic meaning that if there is a change in priorities then this may unbalance the teams focus as it may demand complete restructuring of the team and what each person is doing. Due to this it is best to have one person decide the organisation of the team being the product owners.
+Managing scrum backlog
+Release management 
+Stakeholder management
+The scrum master is the role responsible for gluing everything together and ensuring that scrum is being done well. that means they help the product owner define value, the development team deliver said value, and the scrum team improve. The scrum master will focus on:
+Transparency: ensuring that the scrum team works in a transparent way. Examples include creating story maps and updating confluence pages with the retrospective ideas.
+
+Empiricism: This is the idea that the best way of planning is to do work and learn from the mistakes committed to on previous iterations. This is the process of learning from mistakes
+Self organisation: self organization comes over time and requires help and support. The scrum master will encourage team members to step outside their comfort zone by trying different things and practices.
+Values: crum defines 5 values of courage, focus, commitment, respect, and openness not because they are nice to have, but because they create an environment of physiological safety and trust.
+
 
 ## Scrum of Scrums
+Funcamentally Scrum was first introduced as a scaled means of committing to the Agile workflow/mindset thus;Scrum of Scrums is a scaled agile technique that offers a way to connect multiple teams who need to work together to deliver complex solutions. It helps teams develop and deliver complex products through transparency, inspection, and adaptation, at scale. It’s particularly successful when all high-performing Scrum team members work towards a common goal, have trust, respect, and are completely aligned.
+
+<img src="https://wac-cdn.atlassian.com/dam/jcr:60fb5fd2-399c-42e4-b351-a54660db99dd/atlassian-scaling-scrum.png?cdnVersion=1000" Really hope this image loaded in.jpg>
