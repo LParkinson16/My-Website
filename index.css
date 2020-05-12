@@ -1,4 +1,4 @@
-#grad{
+body{
     background: linear-gradient(to bottom right, teal,blue);
     opacity: 40%;
 }
