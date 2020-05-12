@@ -1,4 +1,4 @@
-div{
+#grad{
     background: linear-gradient(to bottom right, teal,blue);
 }
 
