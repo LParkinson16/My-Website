@@ -1,5 +1,6 @@
 #grad{
     background: linear-gradient(to bottom right, teal,blue);
+    opacity: 40%;
 }
 
 h1{
@@ -19,7 +20,7 @@ ul{
     height:40%;
     background-color: purple;
     text-align:center;
-    font-family:'Fjalla One', sans-serif;
+    font-family:'Fjalla One', sans-serif;                          
     font-size:40px;
 }
 
