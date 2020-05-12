@@ -1,5 +1,5 @@
-body{
-    background: linear-gradient(to bottom right, teal,blue);
+.name{
+    background: linear-gradient(to bottom right, teal,blue,white);
     opacity: 20%;
 }
 
