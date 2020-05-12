@@ -5,3 +5,9 @@ h1{
 p{
     font-family: 'Indie Flower', cursive;
 }
+
+.hero_banner{
+    width:100%;
+    height:30%;
+    background-color: gray;
+}
