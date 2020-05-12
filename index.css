@@ -6,6 +6,10 @@ p{
     font-family: 'Overpass', sans-serif;
 }
 
+li{
+    font-family: 'overpass', sans-serif;
+}
+
 .hero_banner{
     width:100%;
     height:30%;
